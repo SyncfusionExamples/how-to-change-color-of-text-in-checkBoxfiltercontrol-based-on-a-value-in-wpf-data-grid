@@ -74,5 +74,7 @@ public class ColorConverter : IValueConverter
 
 Take a moment to peruse the [WPF DataGrid – Filtering](https://help.syncfusion.com/wpf/datagrid/filtering) documentation, where you can find about filtering with code examples.
 
+KB article - [How to change color of text in CheckBoxFilterControl based on a value in WPF DataGrid (SfDataGrid)?](https://www.syncfusion.com/kb/12649/how-to-change-color-of-text-in-checkboxfiltercontrol-based-on-a-value-in-wpf-datagrid)
+
 ## Requirements to run the demo
 Visual Studio 2015 and above versions
